@@ -1,0 +1,17 @@
+sachai isvalid = sahi    ~ This is a Boolean variable (1 = true)
+adad number = 42          ~ Integer variable assignment
+number=2
+nukta pi = 3.14159        ~ Decimal variable accurate to 5 places
+harf letter = 'a'         ~ Single character assignment
+jumla greeting = "hello"  ~ String variable assignment
+muqarrar adad maxlimit = 100  ~ Cannot be changed later
+maxlimit = 2
+gharwala nukta gravity = 9.81   
+~~
+  This is a multi-line comment.
+  It should be ignored by the compiler.
+~~
+
+adad Wrong = 50  ~  ERROR: Uppercase letters are not allowed
+
+sachai flag = maybe  ~  ERROR: 'maybe' is not a valid Boolean 
