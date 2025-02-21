@@ -130,16 +130,16 @@ gravity = 10.2;  ~ ERROR: Cannot modify constant 'gravity'.
 ## Example Program
 
 ```plaintext
-sachai is_valid = sahi;
+sachai isvalid = sahi;
 adad number = 42;
 nukta pi = 3.14159;
 harf letter = 'a';
 jumla greeting = "hello";
-muqarrar adad max_limit = 100;
+muqarrar adad maxlimit = 100;
 ~ Single-line comment
 ~~ Multi-line comment ~~
 number = 20;  ~ Valid reassignment
-max_limit = 200;  ~ ERROR: Cannot modify constant
+maxlimit = 200;  ~ ERROR: Cannot modify constant
 ```
 
 ## Summary
